@@ -1,0 +1,3 @@
+# RISC-V
+
+Jump instrutions : JAL JALR BEQ BNE BLT BGE BLTU BGEU
